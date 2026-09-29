@@ -1,0 +1,321 @@
+filename,label,payload_type,payload,qr_version,error_correction
+legitimate_url_0.png,legitimate,url,https://www.flipkart.com,3,Q
+legitimate_url_1.png,legitimate,url,https://www.flipkart.com,3,Q
+legitimate_url_2.png,legitimate,url,https://www.icicibank.com,2,M
+legitimate_url_3.png,legitimate,url,https://www.google.com,3,H
+legitimate_url_4.png,legitimate,url,https://www.linkedin.com,2,L
+legitimate_url_5.png,legitimate,url,https://www.icicibank.com,4,H
+legitimate_url_6.png,legitimate,url,https://www.amazon.in,2,L
+legitimate_url_7.png,legitimate,url,https://www.myntra.com,3,Q
+legitimate_url_8.png,legitimate,url,https://www.github.com,2,L
+legitimate_url_9.png,legitimate,url,https://www.github.com,3,Q
+legitimate_url_10.png,legitimate,url,https://www.myntra.com,2,L
+legitimate_url_11.png,legitimate,url,https://www.flipkart.com,3,H
+legitimate_url_12.png,legitimate,url,https://www.github.com,2,M
+legitimate_url_13.png,legitimate,url,https://www.hdfcbank.com,2,L
+legitimate_url_14.png,legitimate,url,https://www.icicibank.com,2,M
+legitimate_url_15.png,legitimate,url,https://www.amazon.in,3,Q
+legitimate_url_16.png,legitimate,url,https://www.amazon.in,3,H
+legitimate_url_17.png,legitimate,url,https://www.flipkart.com,2,L
+legitimate_url_18.png,legitimate,url,https://www.amazon.in,2,M
+legitimate_url_19.png,legitimate,url,https://www.wikipedia.org,2,L
+legitimate_url_20.png,legitimate,url,https://www.wikipedia.org,2,L
+legitimate_url_21.png,legitimate,url,https://www.github.com,3,H
+legitimate_url_22.png,legitimate,url,https://www.github.com,2,M
+legitimate_url_23.png,legitimate,url,https://www.zomato.com,2,L
+legitimate_url_24.png,legitimate,url,https://www.zomato.com,3,H
+legitimate_url_25.png,legitimate,url,https://www.irctc.co.in,3,H
+legitimate_url_26.png,legitimate,url,https://www.flipkart.com,2,M
+legitimate_url_27.png,legitimate,url,https://www.irctc.co.in,2,L
+legitimate_url_28.png,legitimate,url,https://www.flipkart.com,3,Q
+legitimate_url_29.png,legitimate,url,https://www.linkedin.com,2,L
+legitimate_url_30.png,legitimate,url,https://www.amazon.in,2,M
+legitimate_url_31.png,legitimate,url,https://www.linkedin.com,3,Q
+legitimate_url_32.png,legitimate,url,https://www.zomato.com,3,H
+legitimate_url_33.png,legitimate,url,https://www.zomato.com,2,M
+legitimate_url_34.png,legitimate,url,https://www.swiggy.com,2,M
+legitimate_url_35.png,legitimate,url,https://www.amazon.in,2,L
+legitimate_url_36.png,legitimate,url,https://www.wikipedia.org,4,H
+legitimate_url_37.png,legitimate,url,https://www.myntra.com,2,M
+legitimate_url_38.png,legitimate,url,https://www.hdfcbank.com,3,H
+legitimate_url_39.png,legitimate,url,https://www.amazon.in,3,H
+phishing_url_0.png,phishing,url,https://amaz0n-rewards.com/claim,3,Q
+phishing_url_1.png,phishing,url,https://paypa1-verify.com/reset,3,M
+phishing_url_2.png,phishing,url,http://10.0.0.5:8080/update-kyc,2,L
+phishing_url_3.png,phishing,url,http://192.168.45.12/verify-account,5,H
+phishing_url_4.png,phishing,url,https://icici-bank-kyc.tk/verify,3,Q
+phishing_url_5.png,phishing,url,https://www.axiisbank-secure.com/login,4,Q
+phishing_url_6.png,phishing,url,http://sbi-refund-claim.ml/process,3,L
+phishing_url_7.png,phishing,url,http://10.0.0.5:8080/update-kyc,3,M
+phishing_url_8.png,phishing,url,http://192.168.45.12/verify-account,4,Q
+phishing_url_9.png,phishing,url,https://secure-hdfc.xyz/login,2,L
+phishing_url_10.png,phishing,url,https://www.axiisbank-secure.com/login,5,H
+phishing_url_11.png,phishing,url,https://www.axiisbank-secure.com/login,3,M
+phishing_url_12.png,phishing,url,https://www.faceb00k-security.com/confirm,3,M
+phishing_url_13.png,phishing,url,https://icici-bank-kyc.tk/verify,4,H
+phishing_url_14.png,phishing,url,https://secure-hdfc.xyz/login,3,M
+phishing_url_15.png,phishing,url,http://192.168.45.12/verify-account,4,Q
+phishing_url_16.png,phishing,url,http://sbi-refund-claim.ml/process,4,H
+phishing_url_17.png,phishing,url,http://10.0.0.5:8080/update-kyc,2,L
+phishing_url_18.png,phishing,url,https://www.axiisbank-secure.com/login,3,M
+phishing_url_19.png,phishing,url,https://www.faceb00k-security.com/confirm,3,L
+phishing_url_20.png,phishing,url,http://10.0.0.5:8080/update-kyc,3,Q
+phishing_url_21.png,phishing,url,https://icici-bank-kyc.tk/verify,3,M
+phishing_url_22.png,phishing,url,https://www.faceb00k-security.com/confirm,3,M
+phishing_url_23.png,phishing,url,https://www.axiisbank-secure.com/login,4,Q
+phishing_url_24.png,phishing,url,http://10.0.0.5:8080/update-kyc,2,L
+phishing_url_25.png,phishing,url,http://192.168.45.12/verify-account,3,M
+phishing_url_26.png,phishing,url,http://bit.ly/3xFakeLink,3,Q
+phishing_url_27.png,phishing,url,https://paypa1-verify.com/reset,3,Q
+phishing_url_28.png,phishing,url,https://www.axiisbank-secure.com/login,4,Q
+phishing_url_29.png,phishing,url,https://www.faceb00k-security.com/confirm,3,M
+phishing_url_30.png,phishing,url,http://bit.ly/3xFakeLink,3,H
+phishing_url_31.png,phishing,url,http://sbi-refund-claim.ml/process,3,M
+phishing_url_32.png,phishing,url,http://bit.ly/3xFakeLink,2,M
+phishing_url_33.png,phishing,url,https://amaz0n-rewards.com/claim,2,L
+phishing_url_34.png,phishing,url,https://icici-bank-kyc.tk/verify,3,M
+phishing_url_35.png,phishing,url,http://10.0.0.5:8080/update-kyc,2,L
+phishing_url_36.png,phishing,url,https://www.faceb00k-security.com/confirm,3,L
+phishing_url_37.png,phishing,url,https://secure-hdfc.xyz/login,3,Q
+phishing_url_38.png,phishing,url,http://10.0.0.5:8080/update-kyc,3,M
+phishing_url_39.png,phishing,url,http://bit.ly/3xFakeLink,2,M
+legitimate_upi_0.png,legitimate,upi,upi://pay?pa=pharmacy@okicici&pn=MedStore&am=340,3,L
+legitimate_upi_1.png,legitimate,upi,upi://pay?pa=cafe@oksbi&pn=CafeCorner&am=220,4,Q
+legitimate_upi_2.png,legitimate,upi,upi://pay?pa=pharmacy@okicici&pn=MedStore&am=340,6,H
+legitimate_upi_3.png,legitimate,upi,upi://pay?pa=cafe@oksbi&pn=CafeCorner&am=220,4,Q
+legitimate_upi_4.png,legitimate,upi,upi://pay?pa=bookstore@okhdfcbank&pn=Books&am=599,6,H
+legitimate_upi_5.png,legitimate,upi,upi://pay?pa=restaurant@paytm&pn=Dinner&am=780,3,L
+legitimate_upi_6.png,legitimate,upi,upi://pay?pa=cafe@oksbi&pn=CafeCorner&am=220,3,L
+legitimate_upi_7.png,legitimate,upi,upi://pay?pa=restaurant@paytm&pn=Dinner&am=780,4,M
+legitimate_upi_8.png,legitimate,upi,upi://pay?pa=bookstore@okhdfcbank&pn=Books&am=599,6,H
+legitimate_upi_9.png,legitimate,upi,upi://pay?pa=bookstore@okhdfcbank&pn=Books&am=599,6,H
+legitimate_upi_10.png,legitimate,upi,upi://pay?pa=shopowner@ybl&pn=Grocery&am=899,4,M
+legitimate_upi_11.png,legitimate,upi,upi://pay?pa=cafe@oksbi&pn=CafeCorner&am=220,4,M
+legitimate_upi_12.png,legitimate,upi,upi://pay?pa=merchant@okaxis&pn=CoffeeShop&am=150,4,M
+legitimate_upi_13.png,legitimate,upi,upi://pay?pa=pharmacy@okicici&pn=MedStore&am=340,4,M
+legitimate_upi_14.png,legitimate,upi,upi://pay?pa=shopowner@ybl&pn=Grocery&am=899,4,Q
+legitimate_upi_15.png,legitimate,upi,upi://pay?pa=shopowner@ybl&pn=Grocery&am=899,4,Q
+legitimate_upi_16.png,legitimate,upi,upi://pay?pa=restaurant@paytm&pn=Dinner&am=780,4,Q
+legitimate_upi_17.png,legitimate,upi,upi://pay?pa=cafe@oksbi&pn=CafeCorner&am=220,4,M
+legitimate_upi_18.png,legitimate,upi,upi://pay?pa=pharmacy@okicici&pn=MedStore&am=340,4,M
+legitimate_upi_19.png,legitimate,upi,upi://pay?pa=bookstore@okhdfcbank&pn=Books&am=599,5,Q
+legitimate_upi_20.png,legitimate,upi,upi://pay?pa=merchant@okaxis&pn=CoffeeShop&am=150,3,L
+legitimate_upi_21.png,legitimate,upi,upi://pay?pa=pharmacy@okicici&pn=MedStore&am=340,5,Q
+legitimate_upi_22.png,legitimate,upi,upi://pay?pa=pharmacy@okicici&pn=MedStore&am=340,4,M
+legitimate_upi_23.png,legitimate,upi,upi://pay?pa=restaurant@paytm&pn=Dinner&am=780,4,M
+legitimate_upi_24.png,legitimate,upi,upi://pay?pa=restaurant@paytm&pn=Dinner&am=780,4,M
+legitimate_upi_25.png,legitimate,upi,upi://pay?pa=bookstore@okhdfcbank&pn=Books&am=599,3,L
+legitimate_upi_26.png,legitimate,upi,upi://pay?pa=pharmacy@okicici&pn=MedStore&am=340,6,H
+legitimate_upi_27.png,legitimate,upi,upi://pay?pa=restaurant@paytm&pn=Dinner&am=780,6,H
+legitimate_upi_28.png,legitimate,upi,upi://pay?pa=shopowner@ybl&pn=Grocery&am=899,3,L
+legitimate_upi_29.png,legitimate,upi,upi://pay?pa=pharmacy@okicici&pn=MedStore&am=340,4,M
+legitimate_upi_30.png,legitimate,upi,upi://pay?pa=cafe@oksbi&pn=CafeCorner&am=220,4,Q
+legitimate_upi_31.png,legitimate,upi,upi://pay?pa=restaurant@paytm&pn=Dinner&am=780,6,H
+legitimate_upi_32.png,legitimate,upi,upi://pay?pa=bookstore@okhdfcbank&pn=Books&am=599,4,M
+legitimate_upi_33.png,legitimate,upi,upi://pay?pa=shopowner@ybl&pn=Grocery&am=899,5,H
+legitimate_upi_34.png,legitimate,upi,upi://pay?pa=cafe@oksbi&pn=CafeCorner&am=220,3,L
+legitimate_upi_35.png,legitimate,upi,upi://pay?pa=merchant@okaxis&pn=CoffeeShop&am=150,4,M
+legitimate_upi_36.png,legitimate,upi,upi://pay?pa=shopowner@ybl&pn=Grocery&am=899,4,Q
+legitimate_upi_37.png,legitimate,upi,upi://pay?pa=bookstore@okhdfcbank&pn=Books&am=599,3,L
+legitimate_upi_38.png,legitimate,upi,upi://pay?pa=pharmacy@okicici&pn=MedStore&am=340,5,Q
+legitimate_upi_39.png,legitimate,upi,upi://pay?pa=shopowner@ybl&pn=Grocery&am=899,5,H
+phishing_upi_0.png,phishing,upi,upi://pay?pa=kyc-update@fake&pn=KYCVerify&am=1,6,H
+phishing_upi_1.png,phishing,upi,upi://pay?pa=cashback-offer@scam&pn=Cashback&am=1,4,M
+phishing_upi_2.png,phishing,upi,upi://pay?pa=scammer123@fakebank&pn=URGENT&am=5000,3,L
+phishing_upi_3.png,phishing,upi,upi://pay?pa=scammer123@fakebank&pn=URGENT&am=5000,4,M
+phishing_upi_4.png,phishing,upi,upi://pay?pa=winner-lottery@paytm&pn=ClaimPrize&am=1,6,H
+phishing_upi_5.png,phishing,upi,upi://pay?pa=refund-claim@xyz&pn=RBI_Refund&am=9999,6,H
+phishing_upi_6.png,phishing,upi,upi://pay?pa=winner-lottery@paytm&pn=ClaimPrize&am=1,5,Q
+phishing_upi_7.png,phishing,upi,upi://pay?pa=winner-lottery@paytm&pn=ClaimPrize&am=1,3,L
+phishing_upi_8.png,phishing,upi,upi://pay?pa=kyc-update@fake&pn=KYCVerify&am=1,4,M
+phishing_upi_9.png,phishing,upi,upi://pay?pa=kyc-update@fake&pn=KYCVerify&am=1,6,H
+phishing_upi_10.png,phishing,upi,upi://pay?pa=cashback-offer@scam&pn=Cashback&am=1,5,Q
+phishing_upi_11.png,phishing,upi,upi://pay?pa=winner-lottery@paytm&pn=ClaimPrize&am=1,5,Q
+phishing_upi_12.png,phishing,upi,upi://pay?pa=scammer123@fakebank&pn=URGENT&am=5000,4,M
+phishing_upi_13.png,phishing,upi,upi://pay?pa=refund-claim@xyz&pn=RBI_Refund&am=9999,4,M
+phishing_upi_14.png,phishing,upi,upi://pay?pa=winner-lottery@paytm&pn=ClaimPrize&am=1,3,L
+phishing_upi_15.png,phishing,upi,upi://pay?pa=scammer123@fakebank&pn=URGENT&am=5000,5,Q
+phishing_upi_16.png,phishing,upi,upi://pay?pa=winner-lottery@paytm&pn=ClaimPrize&am=1,4,M
+phishing_upi_17.png,phishing,upi,upi://pay?pa=kyc-update@fake&pn=KYCVerify&am=1,4,M
+phishing_upi_18.png,phishing,upi,upi://pay?pa=winner-lottery@paytm&pn=ClaimPrize&am=1,6,H
+phishing_upi_19.png,phishing,upi,upi://pay?pa=winner-lottery@paytm&pn=ClaimPrize&am=1,6,H
+phishing_upi_20.png,phishing,upi,upi://pay?pa=winner-lottery@paytm&pn=ClaimPrize&am=1,5,Q
+phishing_upi_21.png,phishing,upi,upi://pay?pa=cashback-offer@scam&pn=Cashback&am=1,5,Q
+phishing_upi_22.png,phishing,upi,upi://pay?pa=refund-claim@xyz&pn=RBI_Refund&am=9999,4,M
+phishing_upi_23.png,phishing,upi,upi://pay?pa=winner-lottery@paytm&pn=ClaimPrize&am=1,6,H
+phishing_upi_24.png,phishing,upi,upi://pay?pa=scammer123@fakebank&pn=URGENT&am=5000,3,L
+phishing_upi_25.png,phishing,upi,upi://pay?pa=kyc-update@fake&pn=KYCVerify&am=1,3,L
+phishing_upi_26.png,phishing,upi,upi://pay?pa=winner-lottery@paytm&pn=ClaimPrize&am=1,5,Q
+phishing_upi_27.png,phishing,upi,upi://pay?pa=refund-claim@xyz&pn=RBI_Refund&am=9999,3,L
+phishing_upi_28.png,phishing,upi,upi://pay?pa=kyc-update@fake&pn=KYCVerify&am=1,3,L
+phishing_upi_29.png,phishing,upi,upi://pay?pa=winner-lottery@paytm&pn=ClaimPrize&am=1,6,H
+phishing_upi_30.png,phishing,upi,upi://pay?pa=refund-claim@xyz&pn=RBI_Refund&am=9999,4,M
+phishing_upi_31.png,phishing,upi,upi://pay?pa=winner-lottery@paytm&pn=ClaimPrize&am=1,5,Q
+phishing_upi_32.png,phishing,upi,upi://pay?pa=cashback-offer@scam&pn=Cashback&am=1,5,Q
+phishing_upi_33.png,phishing,upi,upi://pay?pa=winner-lottery@paytm&pn=ClaimPrize&am=1,3,L
+phishing_upi_34.png,phishing,upi,upi://pay?pa=refund-claim@xyz&pn=RBI_Refund&am=9999,3,L
+phishing_upi_35.png,phishing,upi,upi://pay?pa=scammer123@fakebank&pn=URGENT&am=5000,4,M
+phishing_upi_36.png,phishing,upi,upi://pay?pa=kyc-update@fake&pn=KYCVerify&am=1,4,M
+phishing_upi_37.png,phishing,upi,upi://pay?pa=scammer123@fakebank&pn=URGENT&am=5000,3,L
+phishing_upi_38.png,phishing,upi,upi://pay?pa=winner-lottery@paytm&pn=ClaimPrize&am=1,5,Q
+phishing_upi_39.png,phishing,upi,upi://pay?pa=scammer123@fakebank&pn=URGENT&am=5000,3,L
+legitimate_wifi_0.png,legitimate,wifi,WIFI:S:LibraryWifi;T:WPA2;P:library2025;;,5,H
+legitimate_wifi_1.png,legitimate,wifi,WIFI:S:LibraryWifi;T:WPA2;P:library2025;;,3,M
+legitimate_wifi_2.png,legitimate,wifi,WIFI:S:HomeNetwork;T:WPA;P:mypassword123;;,5,H
+legitimate_wifi_3.png,legitimate,wifi,WIFI:S:CafeGuest;T:WPA;P:welcome123;;,3,M
+legitimate_wifi_4.png,legitimate,wifi,WIFI:S:OfficeWifi;T:WPA;P:office2024;;,3,L
+legitimate_wifi_5.png,legitimate,wifi,WIFI:S:HomeNetwork;T:WPA;P:mypassword123;;,5,H
+legitimate_wifi_6.png,legitimate,wifi,WIFI:S:LibraryWifi;T:WPA2;P:library2025;;,5,H
+legitimate_wifi_7.png,legitimate,wifi,WIFI:S:HomeNetwork;T:WPA;P:mypassword123;;,5,H
+legitimate_wifi_8.png,legitimate,wifi,WIFI:S:CafeGuest;T:WPA;P:welcome123;;,4,Q
+legitimate_wifi_9.png,legitimate,wifi,WIFI:S:OfficeWifi;T:WPA;P:office2024;;,4,Q
+legitimate_wifi_10.png,legitimate,wifi,WIFI:S:CafeGuest;T:WPA;P:welcome123;;,3,M
+legitimate_wifi_11.png,legitimate,wifi,WIFI:S:CafeGuest;T:WPA;P:welcome123;;,3,M
+legitimate_wifi_12.png,legitimate,wifi,WIFI:S:LibraryWifi;T:WPA2;P:library2025;;,3,L
+legitimate_wifi_13.png,legitimate,wifi,WIFI:S:CafeGuest;T:WPA;P:welcome123;;,4,Q
+legitimate_wifi_14.png,legitimate,wifi,WIFI:S:HomeNetwork;T:WPA;P:mypassword123;;,3,L
+legitimate_wifi_15.png,legitimate,wifi,WIFI:S:LibraryWifi;T:WPA2;P:library2025;;,3,L
+legitimate_wifi_16.png,legitimate,wifi,WIFI:S:LibraryWifi;T:WPA2;P:library2025;;,3,M
+legitimate_wifi_17.png,legitimate,wifi,WIFI:S:OfficeWifi;T:WPA;P:office2024;;,5,H
+legitimate_wifi_18.png,legitimate,wifi,WIFI:S:CafeGuest;T:WPA;P:welcome123;;,5,H
+legitimate_wifi_19.png,legitimate,wifi,WIFI:S:CafeGuest;T:WPA;P:welcome123;;,3,L
+legitimate_wifi_20.png,legitimate,wifi,WIFI:S:LibraryWifi;T:WPA2;P:library2025;;,4,Q
+legitimate_wifi_21.png,legitimate,wifi,WIFI:S:HomeNetwork;T:WPA;P:mypassword123;;,4,Q
+legitimate_wifi_22.png,legitimate,wifi,WIFI:S:HomeNetwork;T:WPA;P:mypassword123;;,3,M
+legitimate_wifi_23.png,legitimate,wifi,WIFI:S:LibraryWifi;T:WPA2;P:library2025;;,4,Q
+legitimate_wifi_24.png,legitimate,wifi,WIFI:S:OfficeWifi;T:WPA;P:office2024;;,3,M
+legitimate_wifi_25.png,legitimate,wifi,WIFI:S:HomeNetwork;T:WPA;P:mypassword123;;,3,L
+legitimate_wifi_26.png,legitimate,wifi,WIFI:S:OfficeWifi;T:WPA;P:office2024;;,3,L
+legitimate_wifi_27.png,legitimate,wifi,WIFI:S:HomeNetwork;T:WPA;P:mypassword123;;,4,Q
+legitimate_wifi_28.png,legitimate,wifi,WIFI:S:CafeGuest;T:WPA;P:welcome123;;,5,H
+legitimate_wifi_29.png,legitimate,wifi,WIFI:S:CafeGuest;T:WPA;P:welcome123;;,3,M
+legitimate_wifi_30.png,legitimate,wifi,WIFI:S:CafeGuest;T:WPA;P:welcome123;;,3,L
+legitimate_wifi_31.png,legitimate,wifi,WIFI:S:LibraryWifi;T:WPA2;P:library2025;;,5,H
+legitimate_wifi_32.png,legitimate,wifi,WIFI:S:CafeGuest;T:WPA;P:welcome123;;,5,H
+legitimate_wifi_33.png,legitimate,wifi,WIFI:S:HomeNetwork;T:WPA;P:mypassword123;;,3,M
+legitimate_wifi_34.png,legitimate,wifi,WIFI:S:HomeNetwork;T:WPA;P:mypassword123;;,3,L
+legitimate_wifi_35.png,legitimate,wifi,WIFI:S:CafeGuest;T:WPA;P:welcome123;;,3,M
+legitimate_wifi_36.png,legitimate,wifi,WIFI:S:HomeNetwork;T:WPA;P:mypassword123;;,3,L
+legitimate_wifi_37.png,legitimate,wifi,WIFI:S:HomeNetwork;T:WPA;P:mypassword123;;,3,L
+legitimate_wifi_38.png,legitimate,wifi,WIFI:S:LibraryWifi;T:WPA2;P:library2025;;,3,L
+legitimate_wifi_39.png,legitimate,wifi,WIFI:S:LibraryWifi;T:WPA2;P:library2025;;,3,M
+phishing_wifi_0.png,phishing,wifi,WIFI:S:Free_Airport_WiFi;T:nopass;;,4,Q
+phishing_wifi_1.png,phishing,wifi,WIFI:S:Guest_Network_Open;T:nopass;;,5,H
+phishing_wifi_2.png,phishing,wifi,WIFI:S:Guest_Network_Open;T:nopass;;,5,H
+phishing_wifi_3.png,phishing,wifi,WIFI:S:Free_Airport_WiFi;T:nopass;;,4,Q
+phishing_wifi_4.png,phishing,wifi,WIFI:S:Free_Airport_WiFi;T:nopass;;,3,L
+phishing_wifi_5.png,phishing,wifi,WIFI:S:Free_Public_WiFi;T:nopass;;,3,M
+phishing_wifi_6.png,phishing,wifi,WIFI:S:Guest_Network_Open;T:nopass;;,4,Q
+phishing_wifi_7.png,phishing,wifi,WIFI:S:Guest_Network_Open;T:nopass;;,4,Q
+phishing_wifi_8.png,phishing,wifi,WIFI:S:Free_Public_WiFi;T:nopass;;,4,H
+phishing_wifi_9.png,phishing,wifi,WIFI:S:Free_Airport_WiFi;T:nopass;;,5,H
+phishing_wifi_10.png,phishing,wifi,WIFI:S:Guest_Network_Open;T:nopass;;,3,M
+phishing_wifi_11.png,phishing,wifi,WIFI:S:Guest_Network_Open;T:nopass;;,5,H
+phishing_wifi_12.png,phishing,wifi,WIFI:S:Guest_Network_Open;T:nopass;;,4,Q
+phishing_wifi_13.png,phishing,wifi,WIFI:S:Guest_Network_Open;T:nopass;;,4,Q
+phishing_wifi_14.png,phishing,wifi,WIFI:S:Free_Public_WiFi;T:nopass;;,3,M
+phishing_wifi_15.png,phishing,wifi,WIFI:S:Free_Airport_WiFi;T:nopass;;,5,H
+phishing_wifi_16.png,phishing,wifi,WIFI:S:Guest_Network_Open;T:nopass;;,3,L
+phishing_wifi_17.png,phishing,wifi,WIFI:S:Free_Public_WiFi;T:nopass;;,3,M
+phishing_wifi_18.png,phishing,wifi,WIFI:S:Free_Airport_WiFi;T:nopass;;,3,M
+phishing_wifi_19.png,phishing,wifi,WIFI:S:Free_Public_WiFi;T:nopass;;,3,L
+phishing_wifi_20.png,phishing,wifi,WIFI:S:Free_Airport_WiFi;T:nopass;;,5,H
+phishing_wifi_21.png,phishing,wifi,WIFI:S:Free_Public_WiFi;T:nopass;;,3,L
+phishing_wifi_22.png,phishing,wifi,WIFI:S:Free_Public_WiFi;T:nopass;;,3,M
+phishing_wifi_23.png,phishing,wifi,WIFI:S:Free_Airport_WiFi;T:nopass;;,3,L
+phishing_wifi_24.png,phishing,wifi,WIFI:S:Free_Public_WiFi;T:nopass;;,4,H
+phishing_wifi_25.png,phishing,wifi,WIFI:S:Free_Airport_WiFi;T:nopass;;,3,M
+phishing_wifi_26.png,phishing,wifi,WIFI:S:Free_Airport_WiFi;T:nopass;;,3,L
+phishing_wifi_27.png,phishing,wifi,WIFI:S:Free_Public_WiFi;T:nopass;;,3,L
+phishing_wifi_28.png,phishing,wifi,WIFI:S:Free_Airport_WiFi;T:nopass;;,5,H
+phishing_wifi_29.png,phishing,wifi,WIFI:S:Free_Airport_WiFi;T:nopass;;,5,H
+phishing_wifi_30.png,phishing,wifi,WIFI:S:Free_Airport_WiFi;T:nopass;;,4,Q
+phishing_wifi_31.png,phishing,wifi,WIFI:S:Guest_Network_Open;T:nopass;;,4,Q
+phishing_wifi_32.png,phishing,wifi,WIFI:S:Guest_Network_Open;T:nopass;;,4,Q
+phishing_wifi_33.png,phishing,wifi,WIFI:S:Guest_Network_Open;T:nopass;;,4,Q
+phishing_wifi_34.png,phishing,wifi,WIFI:S:Free_Airport_WiFi;T:nopass;;,5,H
+phishing_wifi_35.png,phishing,wifi,WIFI:S:Free_Public_WiFi;T:nopass;;,4,Q
+phishing_wifi_36.png,phishing,wifi,WIFI:S:Free_Airport_WiFi;T:nopass;;,5,H
+phishing_wifi_37.png,phishing,wifi,WIFI:S:Free_Public_WiFi;T:nopass;;,4,Q
+phishing_wifi_38.png,phishing,wifi,WIFI:S:Guest_Network_Open;T:nopass;;,5,H
+phishing_wifi_39.png,phishing,wifi,WIFI:S:Free_Public_WiFi;T:nopass;;,3,M
+legitimate_text_0.png,legitimate,text,"Menu: Pasta - 250, Pizza - 350, Salad - 180",3,L
+legitimate_text_1.png,legitimate,text,"Event: Tech Fest 2026, Hall A, 10 AM",3,M
+legitimate_text_2.png,legitimate,text,"Menu: Pasta - 250, Pizza - 350, Salad - 180",3,L
+legitimate_text_3.png,legitimate,text,"Event: Tech Fest 2026, Hall A, 10 AM",4,Q
+legitimate_text_4.png,legitimate,text,"Menu: Pasta - 250, Pizza - 350, Salad - 180",3,L
+legitimate_text_5.png,legitimate,text,"Menu: Pasta - 250, Pizza - 350, Salad - 180",3,L
+legitimate_text_6.png,legitimate,text,"Parking Ticket: Slot A4, Valid till 6 PM",3,L
+legitimate_text_7.png,legitimate,text,"Event: Tech Fest 2026, Hall A, 10 AM",3,L
+legitimate_text_8.png,legitimate,text,"Parking Ticket: Slot A4, Valid till 6 PM",3,L
+legitimate_text_9.png,legitimate,text,"Contact: John Doe, +91-9876543210",4,H
+legitimate_text_10.png,legitimate,text,"Contact: John Doe, +91-9876543210",4,H
+legitimate_text_11.png,legitimate,text,"Parking Ticket: Slot A4, Valid till 6 PM",5,H
+legitimate_text_12.png,legitimate,text,"Menu: Pasta - 250, Pizza - 350, Salad - 180",4,M
+legitimate_text_13.png,legitimate,text,"Event: Tech Fest 2026, Hall A, 10 AM",3,M
+legitimate_text_14.png,legitimate,text,"Menu: Pasta - 250, Pizza - 350, Salad - 180",4,Q
+legitimate_text_15.png,legitimate,text,"Menu: Pasta - 250, Pizza - 350, Salad - 180",5,H
+legitimate_text_16.png,legitimate,text,"Menu: Pasta - 250, Pizza - 350, Salad - 180",4,M
+legitimate_text_17.png,legitimate,text,"Contact: John Doe, +91-9876543210",3,L
+legitimate_text_18.png,legitimate,text,"Event: Tech Fest 2026, Hall A, 10 AM",3,M
+legitimate_text_19.png,legitimate,text,"Contact: John Doe, +91-9876543210",4,H
+legitimate_text_20.png,legitimate,text,"Contact: John Doe, +91-9876543210",3,L
+legitimate_text_21.png,legitimate,text,"Contact: John Doe, +91-9876543210",3,L
+legitimate_text_22.png,legitimate,text,"Event: Tech Fest 2026, Hall A, 10 AM",3,L
+legitimate_text_23.png,legitimate,text,"Menu: Pasta - 250, Pizza - 350, Salad - 180",3,L
+legitimate_text_24.png,legitimate,text,"Contact: John Doe, +91-9876543210",4,H
+legitimate_text_25.png,legitimate,text,"Contact: John Doe, +91-9876543210",4,H
+legitimate_text_26.png,legitimate,text,"Menu: Pasta - 250, Pizza - 350, Salad - 180",5,H
+legitimate_text_27.png,legitimate,text,"Contact: John Doe, +91-9876543210",4,H
+legitimate_text_28.png,legitimate,text,"Contact: John Doe, +91-9876543210",3,M
+legitimate_text_29.png,legitimate,text,"Menu: Pasta - 250, Pizza - 350, Salad - 180",5,H
+legitimate_text_30.png,legitimate,text,"Contact: John Doe, +91-9876543210",4,Q
+legitimate_text_31.png,legitimate,text,"Menu: Pasta - 250, Pizza - 350, Salad - 180",4,M
+legitimate_text_32.png,legitimate,text,"Event: Tech Fest 2026, Hall A, 10 AM",3,L
+legitimate_text_33.png,legitimate,text,"Event: Tech Fest 2026, Hall A, 10 AM",4,Q
+legitimate_text_34.png,legitimate,text,"Event: Tech Fest 2026, Hall A, 10 AM",3,M
+legitimate_text_35.png,legitimate,text,"Event: Tech Fest 2026, Hall A, 10 AM",5,H
+legitimate_text_36.png,legitimate,text,"Contact: John Doe, +91-9876543210",3,M
+legitimate_text_37.png,legitimate,text,"Menu: Pasta - 250, Pizza - 350, Salad - 180",5,H
+legitimate_text_38.png,legitimate,text,"Parking Ticket: Slot A4, Valid till 6 PM",3,L
+legitimate_text_39.png,legitimate,text,"Event: Tech Fest 2026, Hall A, 10 AM",4,Q
+phishing_text_0.png,phishing,text,Your parcel is held. Pay customs fee: scam-link.com,5,Q
+phishing_text_1.png,phishing,text,URGENT: Your account is locked. Verify now: bit.ly/3xFake,5,Q
+phishing_text_2.png,phishing,text,WINNER! Claim your prize within 24hrs or lose it,5,Q
+phishing_text_3.png,phishing,text,Your parcel is held. Pay customs fee: scam-link.com,3,L
+phishing_text_4.png,phishing,text,Bank Alert: Suspicious activity. Confirm identity now.,5,Q
+phishing_text_5.png,phishing,text,Bank Alert: Suspicious activity. Confirm identity now.,6,H
+phishing_text_6.png,phishing,text,WINNER! Claim your prize within 24hrs or lose it,4,M
+phishing_text_7.png,phishing,text,URGENT: Your account is locked. Verify now: bit.ly/3xFake,5,Q
+phishing_text_8.png,phishing,text,WINNER! Claim your prize within 24hrs or lose it,3,L
+phishing_text_9.png,phishing,text,WINNER! Claim your prize within 24hrs or lose it,4,M
+phishing_text_10.png,phishing,text,Bank Alert: Suspicious activity. Confirm identity now.,4,L
+phishing_text_11.png,phishing,text,Your parcel is held. Pay customs fee: scam-link.com,5,Q
+phishing_text_12.png,phishing,text,Bank Alert: Suspicious activity. Confirm identity now.,4,M
+phishing_text_13.png,phishing,text,WINNER! Claim your prize within 24hrs or lose it,4,M
+phishing_text_14.png,phishing,text,WINNER! Claim your prize within 24hrs or lose it,4,M
+phishing_text_15.png,phishing,text,Bank Alert: Suspicious activity. Confirm identity now.,5,Q
+phishing_text_16.png,phishing,text,Your parcel is held. Pay customs fee: scam-link.com,5,Q
+phishing_text_17.png,phishing,text,URGENT: Your account is locked. Verify now: bit.ly/3xFake,6,H
+phishing_text_18.png,phishing,text,URGENT: Your account is locked. Verify now: bit.ly/3xFake,5,Q
+phishing_text_19.png,phishing,text,Bank Alert: Suspicious activity. Confirm identity now.,4,L
+phishing_text_20.png,phishing,text,URGENT: Your account is locked. Verify now: bit.ly/3xFake,6,H
+phishing_text_21.png,phishing,text,WINNER! Claim your prize within 24hrs or lose it,4,M
+phishing_text_22.png,phishing,text,Your parcel is held. Pay customs fee: scam-link.com,6,H
+phishing_text_23.png,phishing,text,Bank Alert: Suspicious activity. Confirm identity now.,4,M
+phishing_text_24.png,phishing,text,URGENT: Your account is locked. Verify now: bit.ly/3xFake,5,Q
+phishing_text_25.png,phishing,text,Your parcel is held. Pay customs fee: scam-link.com,4,M
+phishing_text_26.png,phishing,text,Your parcel is held. Pay customs fee: scam-link.com,3,L
+phishing_text_27.png,phishing,text,Your parcel is held. Pay customs fee: scam-link.com,4,M
+phishing_text_28.png,phishing,text,URGENT: Your account is locked. Verify now: bit.ly/3xFake,5,Q
+phishing_text_29.png,phishing,text,Bank Alert: Suspicious activity. Confirm identity now.,6,H
+phishing_text_30.png,phishing,text,Your parcel is held. Pay customs fee: scam-link.com,3,L
+phishing_text_31.png,phishing,text,Your parcel is held. Pay customs fee: scam-link.com,3,L
+phishing_text_32.png,phishing,text,URGENT: Your account is locked. Verify now: bit.ly/3xFake,4,M
+phishing_text_33.png,phishing,text,WINNER! Claim your prize within 24hrs or lose it,5,Q
+phishing_text_34.png,phishing,text,WINNER! Claim your prize within 24hrs or lose it,6,H
+phishing_text_35.png,phishing,text,Your parcel is held. Pay customs fee: scam-link.com,5,Q
+phishing_text_36.png,phishing,text,WINNER! Claim your prize within 24hrs or lose it,4,M
+phishing_text_37.png,phishing,text,URGENT: Your account is locked. Verify now: bit.ly/3xFake,5,Q
+phishing_text_38.png,phishing,text,WINNER! Claim your prize within 24hrs or lose it,6,H
+phishing_text_39.png,phishing,text,Bank Alert: Suspicious activity. Confirm identity now.,6,H
